@@ -1,4 +1,7 @@
-
+#DigitalOcean Question from HackerRank.com
+#Author: Ashutosh Panda
+#Lincense: MIT
+#Twitter: @ashutosh4336
 
 #Function  difference
 def difference(arr, n):
